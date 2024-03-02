@@ -4,7 +4,7 @@ This repository contains code for building a logistic regression model to assess
 
 ## Dataset
 
-The dataset used for this project is named `creditrisk.csv`. It includes the following variables:
+The dataset used for this project is named `CreditRisk.csv`. It includes the following variables:
 
 - Loan_ID: Unique identifier for each loan application.
 - Gender: Gender of the applicant (Male/Female).
