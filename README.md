@@ -37,7 +37,7 @@ The model building process involves the following steps:
 ## Files Included
 
 - `credit_risk_analysis.ipynb`: Jupyter notebook containing the code for data preprocessing, model building, and evaluation.
-- `Creditrisk.csv`: The dataset used for model training and testing.
+- `CreditRisk.csv`: The dataset used for model training and testing.
 - `requirements.txt`: List of Python dependencies required to run the code.
 
 ## Usage
